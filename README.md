@@ -20,3 +20,7 @@ To run the website on your local machine, follow these steps:
 
    ```bash
    npm install
+4. Run using vite:
+
+   ```bash
+   npm run dev
