@@ -1,0 +1,30 @@
+/* src/components/CuteDogs.css */
+.cute-dogs-section {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.cute-dogs-title {
+    font-size: 28px;
+    color: #ff7e50;
+    margin-bottom: 10px;
+}
+
+.cute-dogs-images {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.dog-image {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+.dog-image:hover {
+    transform: translateY(-10px);
+}

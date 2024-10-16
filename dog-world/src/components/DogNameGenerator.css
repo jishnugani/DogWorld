@@ -1,0 +1,32 @@
+.dog-name-generator {
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #ff7e50;
+    border-radius: 10px;
+    background-color: #f9f5f1;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.generate-button {
+    background-color: #ff7e50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+}
+
+.generate-button:hover {
+    background-color: #ff9e70;
+}
+
+.generated-name {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+}

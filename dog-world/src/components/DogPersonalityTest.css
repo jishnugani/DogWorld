@@ -1,0 +1,52 @@
+/* src/components/DogPersonalityTest.css */
+.dog-personality-test {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+  }
+  
+  .quiz h2 {
+    font-size: 24px;
+    color: #ff7e50;
+  }
+  
+  .answers button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #fbd5b5;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .answers button:hover {
+    background-color: #ffb590;
+  }
+  
+  .result {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .result p {
+    font-size: 20px;
+    color: #ff7e50;
+  }
+  
+  .play-again-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ff7e50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .play-again-btn:hover {
+    background-color: #ffb590;
+  }
+  

@@ -1,0 +1,18 @@
+/* src/components/Facts.css */
+.facts {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    margin-bottom: auto;
+}
+
+.facts h2 {
+    font-size: 28px;
+    color: #ff7e50;
+    margin-bottom: 20px;
+}
+
+.facts p {
+    font-size: 18px;
+    color: #555;
+}

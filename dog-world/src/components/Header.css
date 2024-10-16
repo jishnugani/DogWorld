@@ -1,0 +1,27 @@
+/* src/components/Header.css */
+.header {
+    text-align: center;
+    padding: 50px;
+    background-color: #fbd5b5;
+    transition: transform 0.3s ease-in-out;
+}
+
+.header:hover {
+    transform: scale(1.05);
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: #333;
+    transition: transform 0.3s ease-in-out;
+}
+
+.header h1:hover {
+    transform: scale(1.05);
+}
+
+.header p {
+    font-size: 18px;
+    color: #555;
+}
